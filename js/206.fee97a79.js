@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunklove_admin"]=self["webpackChunklove_admin"]||[]).push([[206],{8206:function(e,n,l){l.r(n),l.d(n,{default:function(){return s}});var t=function(){var e=this,n=e._self._c;return n("div",[e._v("删除的活动")])},u=[],i={name:"DeleteActivity"},r=i,a=l(1001),c=(0,a.Z)(r,t,u,!1,null,null,null),s=c.exports}}]);

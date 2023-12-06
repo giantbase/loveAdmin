@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunklove_admin"]=self["webpackChunklove_admin"]||[]).push([[209],{2209:function(n,l,e){e.r(l),e.d(l,{default:function(){return c}});var u=function(){var n=this,l=n._self._c;return l("div",[n._v("志愿活动")])},t=[],r={name:"VolAllItem"},a=r,i=e(1001),s=(0,i.Z)(a,u,t,!1,null,null,null),c=s.exports}}]);

@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunklove_admin"]=self["webpackChunklove_admin"]||[]).push([[266],{2266:function(n,e,u){u.r(e),u.d(e,{default:function(){return c}});var l=function(){var n=this,e=n._self._c;return e("div",[n._v("已删除的项目")])},t=[],r={name:"delPubItem"},a=r,i=u(1001),s=(0,i.Z)(a,l,t,!1,null,null,null),c=s.exports}}]);
